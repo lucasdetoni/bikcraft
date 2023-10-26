@@ -27,14 +27,14 @@
 }
 
 .tecnologia-conteudo h2 {
-  margin-bottom: 20px;
+  margin-bottom: 32px;
 }
 
 .tecnologia-conteudo > p {
   margin-bottom: 20px;
 }
 
-.tecnologia-conteudo a {
+.tecnologia a {
   margin-bottom: 80px;
 }
 
@@ -57,7 +57,6 @@
   .tecnologia-bg {
     box-shadow: initial;
   }
-
   .tecnologia {
     grid-template-columns: 1fr;
   }
@@ -65,11 +64,10 @@
     padding-top: 60px;
     padding-bottom: 60px;
   }
-
   .tecnologia-imagem {
     display: none;
   }
-  .tecnologia-conteudo a {
+  .tecnologia a {
     margin-bottom: 60px;
   }
 }
